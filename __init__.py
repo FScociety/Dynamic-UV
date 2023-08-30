@@ -81,7 +81,6 @@ def add_modifier(context, obj, helper, name):
     geo_modifier.node_group = bpy.data.node_groups[name]
 
     geo_modifier["Input_2"] = helper
-    bpy.ops.object.geometry_nodes_input_attribute_toggle(prop_path="[\"Input_4_use_attribute\"]", modifier_name=geo_modifier.name)
 
 class DYNUV_OT_create_planar_maper(Operator):
     bl_idname = "object.createplanemapping"
