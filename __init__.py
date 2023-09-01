@@ -23,7 +23,7 @@ bl_info = {
     "support": "COMMUNITY",
     "wiki_url": "",
     "tracker_url": "",
-    "category": "FC"
+    "category": "UV"
 }
 
 def select_object(context, obj):
