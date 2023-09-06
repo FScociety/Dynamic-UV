@@ -10,7 +10,7 @@ A simple addon for adding dynamic box/ planar uv-mappings to objects.
 
 ![Unwrap](https://github.com/FScociety/Dynamic-UV/assets/40910944/27ac7716-a91e-46c5-8c51-193564fafb92)
 
-[*Skull from the image (CC0)*](https://www.blender.org/download/demo-files/)
+[*Skull model from the image (CC0)*](https://www.blender.org/download/demo-files/)
 
 ## Installation
 
